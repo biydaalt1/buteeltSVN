@@ -1,4 +1,4 @@
-//6:10
+//6:45
 class Employee:
     def __init__(self, name, years_worked):
         self.name = name
